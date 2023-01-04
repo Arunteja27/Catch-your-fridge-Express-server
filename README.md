@@ -17,6 +17,6 @@ In the js folder, the client side javascript file is comm-fridge.js. This folder
 
 Any relevant instructions for running your code:
 
-npm install node \n
-Run server using node server.js
+npm install node    
+Run server using node server.js    
 Access webpage by going to localhost8000/index.html
