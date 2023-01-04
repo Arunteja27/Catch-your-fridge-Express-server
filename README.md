@@ -3,7 +3,6 @@ An Community Fridge management system using Express, Node.js, JavaScript, HTML a
 
 
 Description of the contents:    
-
 server.js is the express server.    
 router.js is used by the express server for routing (with routes beginning with /fridges).    
 a3FunctionModule.js is a module of all functions that are used to interact with the data/files. It has functions exported to router.js and server.js.    
