@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Edit a fridge</title>
+    <link rel="stylesheet" href="../css/comm-fridge.css" />
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+  </head>
+
+  <body>
+    <menu id ="add_menu">
+      <a href="../index.html"><i class="fas fa-bars"></i></a>
+    </menu>
+    <h1>Edit a fridge</h1>
+    <br>
+    <div id="respArea3" class="hidden">Fridge updated!</div>
+    <br>
+
+
+    <form>
+      <label for="fridgeName">Fridge name: </label>
+      <input type="text" id="fridgeName" /><br><br>
+
+      <label for="numItemsAccepted">Number of items accepted: </label>
+      <input type="text" id="numItemsAccepted" /><br><br>
+
+      <label for="acceptedTypes">Accepted types: </label>
+      <select id="typesSelect" name="types" multiple>
+
+      </select><br><br>
+
+      <label for="contactPerson">Contact person: </label>
+      <input type="text" id="contactPerson" /><br><br>
+
+      <label for="contactPhone">Contact phone: </label>
+      <input type="text" id="contactPhone" /><br><br>
+
+      <label for="streetName">Street name: </label>
+      <input type="text" id="streetName" /><br><br>
+
+      <label for="postalCode">Postal code: </label>
+      <input type="text" id="postalCode" /><br><br>
+
+      <label for="city">City: </label>
+      <input type="text" id="city" /><br><br>
+
+      <label for="province">Province: </label>
+      <input type="text" id="province" /><br><br>
+
+
+    </form>
+    <br>
+    <button id="editFridgeBtn">Submit</button>
+
+
+    <script src="../js/comm-fridge.js"></script>
+  </body>
+</html>
