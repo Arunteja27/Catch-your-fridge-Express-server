@@ -1,5 +1,5 @@
 # Community Fridge Express Server Arunteja
-An Community Fridge management system using Express, Node.js, JavaScript, HTML and CSS. The application has persistence POG!
+An Community Fridge management system using Express, Node.js, JavaScript, HTML and CSS. The application has persistence.
 
 
 ## Description of the contents:    
