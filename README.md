@@ -19,4 +19,4 @@ Check out the [REST API](https://github.com/Arunteja27/Catch-your-fridge-REST-AP
 ## Any relevant instructions for running your code:    
 * npm install node    
 * Run server using node server.js    
-* Access webpage by going to localhost8000/index.html
+* Access webpage by going to localhost:8000/index.html
