@@ -1,4 +1,4 @@
-# Catch your fridge! (Express Server, Client side UI & logic)
+# Catch that fridge! (Express Server, Client side UI & logic)
 An Community Fridge management system using Express, Node.js, JavaScript, HTML and CSS. The application has persistence.
 
 Check out the [REST API](https://github.com/Arunteja27/Catch-your-fridge-REST-API) for this project!
